@@ -110,7 +110,7 @@ rm -rf /mnt/.ix-apps/app_mounts/immich
 ## 📝 Blog Post
 
 Full step-by-step tutorial:
-👉 [Migrating Immich Storage on TrueNAS SCALE](https://yourbloglink.example)
+👉 [Migrating Immich Storage on TrueNAS SCALE](https://affan.info)
 
 ---
 
