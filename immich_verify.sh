@@ -4,7 +4,7 @@
 # Author: Community contribution
 
 OLD_POOL="/mnt/.ix-apps/app_mounts/immich"
-NEW_POOL="/mnt/DiskPool/immich"
+NEW_POOL="/mnt/Cloud/immich"
 
 check_dir () {
   local src=$1
